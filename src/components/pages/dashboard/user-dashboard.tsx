@@ -48,7 +48,7 @@ export default function UserDashboard() {
     <Image
      width={150}
      height={150}
-     src={user.picture}
+     src={`https://sm.ign.com/ign_fr/cover/a/avatar-gen/avatar-generations_bssq.jpg`}
      alt="User avatar"
      className="w-24 h-24 rounded-full mx-auto mb-4"
     />
